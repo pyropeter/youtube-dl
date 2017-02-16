@@ -538,6 +538,7 @@ from .minoto import MinotoIE
 from .miomio import MioMioIE
 from .mit import TechTVMITIE, MITIE, OCWMITIE
 from .mitele import MiTeleIE
+from .mitschau import MitschauIE
 from .mixcloud import (
     MixcloudIE,
     MixcloudUserIE,
